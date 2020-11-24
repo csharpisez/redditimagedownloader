@@ -1,5 +1,6 @@
 # Reddit Image Downloader
 A Python Application which downloads images from a specified subreddit.
+![alt text](img src="https://i.ibb.co/YQywF3q/redditimagedownloader.png)
 
 # Guide
 a) You want to use the standalone exe (recommended) :-\
