@@ -28,5 +28,5 @@ Step 2 - Modify the program\
 Step 3 - Build using pyinstaller ```pyinstaller --onefile --windowed main.py```
 
 # IMPORTANT, TO-DO
-The program often runs into errors, as it cant download posts which contain videos/youtube video links, I am working to solve this problem.
+The program often runs into errors, as it cant download posts which contain videos/youtube video links, I am working to solve this problem, and contributing is encouraged.
 
