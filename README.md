@@ -18,7 +18,7 @@ Step 3 - Execute main.py
 # Pre-resiquites (Only if you use Source)
 Python (Built using 3.9)\
 (package) PySimpleGUI AND PySimpleGUIQt\
-(package) requests\
+(package) requests
 
 If you want to make installing packages faster, you are free to use my program https://github.com/csharpisez/easypip
 
